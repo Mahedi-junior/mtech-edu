@@ -1,0 +1,19 @@
+@media only screen and (min-width: 776px) {
+    .ptitle {
+        font-size: 40px;
+        color: whitesmoke;
+    }
+
+    .htitle {
+        font-size: 80px;
+        color: rgba(255, 255, 255, 0.983);
+    }
+
+    .banner-btn {
+        color: white;
+        background-color: rgb(77, 119, 235);
+        padding-right: 70px;
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
