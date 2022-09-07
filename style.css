@@ -29,6 +29,28 @@
         margin-right: 150px;
         margin-left: 150px;
     }
+
+    .ready-join {
+        /* position: absolute; */
+        /* background-color: rgb(128, 128, 246); */
+        border-radius: 20px;
+        color: white;
+        width: 1320px;
+        height: 300px;
+        padding-left: 50px;
+
+    }
+
+    .join-register {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 25px;
+        font-weight: 700;
+        color: rgb(17, 45, 255);
+        margin: 50px;
+    }
 }
 
 .mtitel {
